@@ -1,7 +1,4 @@
-<!-- {
-  "title": "My First Blog",
-  "labels": ["javascript", "code"] 
-} -->
+<!-- { "title": "My First Blog", "labels": ["javascript", "code"] } -->
 
 ## Title
 
