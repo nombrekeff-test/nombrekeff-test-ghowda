@@ -1,4 +1,4 @@
-<!-- { "title": "My Second Blog", "labels": ["react", "code"] } -->
+<!-- { "title": "My Second Blog", "labels": ["react", "code"], header_image: "https://juststickers.in/wp-content/uploads/2014/08/NPM.jpg" } -->
 
 npm recently added **Unpacked Size** to the package details, I then realized one of my libraries was way too big (**350kb**) for the code it has...
 
