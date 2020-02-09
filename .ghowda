@@ -1,3 +1,8 @@
 {
-  "//": "Here will go all the config for ghowda blog"
+  "//": "Here will go all the config for ghowda blog",
+  "labels": {
+    "javascript": {
+      "color": "yellow"
+    }
+  }
 }
